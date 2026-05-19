@@ -1,0 +1,14 @@
+Rscript R/compute_landscape_metrics.R \
+  --input "data/landcover.tif" \
+  --out_dir "outputs" \
+  --aoi "NULL" \
+  --crs "EPSG:3857" \
+  --radius 500 \
+  --out_res 1000 \
+  --agg_res 100 \
+  --chunk_size 500 \
+  --workers 3 \
+  --save_chunks TRUE \
+  --exclude_codes "7" \
+  --metrics "lsm_c_pland,lsm_c_ed,lsm_c_clumpy,lsm_c_ai,lsm_c_enn_mn,lsm_c_para_mn" \
+  --classes "forest=1,plantations=2,grass_shrub_agriculture=3,urban_built_up=4,bare_open_land=5,water_wetland=6,clouds=7"

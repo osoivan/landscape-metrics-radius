@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Landscape Metrics Radius
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - family-names: Alvarez Mendoza
+    given-names: Cesar Ivan
+repository-code: https://github.com/your-user/landscape-metrics-radius
+license: MIT
+version: 0.1.0
+date-released: 2026-05-19
