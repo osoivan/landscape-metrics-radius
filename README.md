@@ -1,1 +1,0 @@
-rmarkdown::render("README.Rmd")
