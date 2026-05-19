@@ -307,7 +307,6 @@ This study was funded by the ZOOMAL project (“Evaluating zoonotic malaria and 
 
 **Dr. Cesar Alvarez**  
 University of Augsburg  
-Institute of Geography and Climate Resilience Centre (ZfK)  
 Augsburg, Germany
 
 Email: cesar.alvarez@uni-a.de
